@@ -52,10 +52,10 @@ Background:
 
 Fun facts:
 
-- 🏋️ Gym keeps me disciplined  
-- 🎌 Anime helps me unwind  
-- ☕ Not a coffee person  
-- 📈 I prefer consistency over shortcuts  
+- 🎧 I usually work with music on  
+- 🧩 I enjoy solving problems more than rushing to solutions  
+- 🌙 I’m more productive late in the day  
+- 🧠 I like things clean — code, data, and design
 
 ---
 
