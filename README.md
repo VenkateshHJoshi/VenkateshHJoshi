@@ -1,32 +1,68 @@
-Hi there 👋  
-I’m Venkatesh, a data science and machine learning engineer based in India.  
-I enjoy working with data, building clean ML systems, and keeping things simple and practical.
+<h1 align="center">Venkatesh Joshi</h1>
 
-These days I’m focused on:
+<p align="center">
+<strong>Data Science & Machine Learning</strong> • Python • SQL
+</p>
 
-- End-to-end machine learning projects using Python  
-- Data analysis, feature engineering, and model evaluation  
+<p align="center">
+Building clean, practical machine learning systems on real-world data.
+</p>
+
+---
+
+## 🚀 Focus Areas
+
+- End-to-end machine learning projects  
+- Data analysis, feature engineering, and modeling  
 - Turning raw data into clear, actionable insights  
-- Building small but complete systems with real-world relevance  
+- Simple systems with strong fundamentals  
 
-Some things I’ve built:
+---
 
-- **Airline Customer Satisfaction Prediction**  
-  An end-to-end machine learning project analyzing airline service data to predict customer satisfaction.
+## 📌 Featured Projects
 
-- **AI Data Analyst Platform**  
-  A natural language–driven system that converts user queries into executable data analysis workflows and visualizations.
+| Project | Description |
+|------|------------|
+| ✈️ **Airline Customer Satisfaction Prediction** | End-to-end ML project analyzing airline service data to predict customer satisfaction |
+| 🧠 **AI Data Analyst Platform** | Natural language–driven system that converts queries into executable data analysis workflows |
 
-Background:
+🔗 **Explore repositories:**  
+- https://github.com/VenkateshHJoshi/Airline-Customer-Satisfaction  
+- https://github.com/VenkateshHJoshi/ai_data_analyst  
 
-- QA Testing Engineer Intern at Versa Networks  
-- Experience working on enterprise network security systems  
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-teal?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
+
+---
+
+## 🏢 Background
+
+- QA Testing Engineer Intern — **Versa Networks**  
+- Worked on enterprise network security systems  
 - Comfortable with Linux environments and Git-based workflows  
 
-A few personal notes:
+---
 
-- I like clean design, minimal code, and structured thinking  
-- Interested in machine learning, NLP, and scalable data systems  
-- Outside tech: gym, anime, and staying consistent
+## 🌱 Outside Tech
 
-Thanks for stopping by.
+- Gym & discipline  
+- Anime  
+- Consistent learning  
+
+---
+
+<p align="center">
+<a href="https://www.linkedin.com/in/venkatesh-joshi-402526312/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
