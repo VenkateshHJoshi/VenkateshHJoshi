@@ -1,42 +1,32 @@
-<h2 align="left">Venkatesh Joshi</h2>
+Hi there 👋  
+I’m Venkatesh, a data science and machine learning engineer based in India.  
+I enjoy working with data, building clean ML systems, and keeping things simple and practical.
 
-<p align="left">
-Data Science & Machine Learning | Python • SQL
-</p>
+These days I’m focused on:
 
----
+- End-to-end machine learning projects using Python  
+- Data analysis, feature engineering, and model evaluation  
+- Turning raw data into clear, actionable insights  
+- Building small but complete systems with real-world relevance  
 
-### What I Do
-- Build end-to-end machine learning solutions on real-world data  
-- Focus on data analysis, feature engineering, and model development  
-- Translate data into actionable insights through practical ML systems  
+Some things I’ve built:
 
----
-
-### Selected Projects
 - **Airline Customer Satisfaction Prediction**  
-  End-to-end ML project focused on data analysis and classification  
-  → https://github.com/VenkateshHJoshi/Airline-Customer-Satisfaction  
+  An end-to-end machine learning project analyzing airline service data to predict customer satisfaction.
 
 - **AI Data Analyst Platform**  
-  NLP-powered system for automated data analysis and visualization  
-  → https://github.com/VenkateshHJoshi/ai_data_analyst  
+  A natural language–driven system that converts user queries into executable data analysis workflows and visualizations.
 
----
+Background:
 
-### Tools & Technologies
-Python • SQL • Pandas • NumPy • Scikit-learn • PyTorch  
-Git • Linux • Docker • Jupyter Notebook  
-
----
-
-### Background
-- QA Testing Engineer Intern — Versa Networks  
+- QA Testing Engineer Intern at Versa Networks  
 - Experience working on enterprise network security systems  
+- Comfortable with Linux environments and Git-based workflows  
 
----
+A few personal notes:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/venkatesh-joshi-402526312/">LinkedIn</a> •
-<a href="https://github.com/VenkateshHJoshi">GitHub</a>
-</p>
+- I like clean design, minimal code, and structured thinking  
+- Interested in machine learning, NLP, and scalable data systems  
+- Outside tech: gym, anime, and staying consistent
+
+Thanks for stopping by.
