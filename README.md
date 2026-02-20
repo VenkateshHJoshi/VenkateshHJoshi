@@ -35,9 +35,9 @@ Things I work with:
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/NLP-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0B1220?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-0B1220?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-0B1220?style=for-the-badge"/>
 </p>
 
 ---
@@ -47,6 +47,15 @@ Background:
 - 🏢 QA Testing Engineer Intern at **Versa Networks**  
 - 🔐 Worked on enterprise network security systems  
 - 🐧 Comfortable with Linux environments and Git-based workflows  
+
+---
+
+Fun facts:
+
+- 🏋️ Gym keeps me disciplined  
+- 🎌 Anime helps me unwind  
+- ☕ Not a coffee person  
+- 📈 I prefer consistency over shortcuts  
 
 ---
 
